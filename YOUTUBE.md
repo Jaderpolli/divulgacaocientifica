@@ -36,7 +36,7 @@
 | Ciência News                             | Diversos                                 | https://www.youtube.com/channel/UCs_7a_XqqWQTINSlSUQ4GvQ          |                |
 | Ciência que lá vem História              | Química                                  | https://www.youtube.com/c/decogdocienciaquelavemhistoria          |                |
 | Ciência Todo Dia                         | Física                                   | https://www.youtube.com/user/CienciaTodoDia                       | ScienceVlogsBr |
-| CientificaMente                          |                                          | https://www.youtube.com/channel/UCLOpmdYUrjc6PvtUA40wknw          |                |
+| CientificaMente                          | Física/Pensamento Científico             | https://www.youtube.com/channel/UCLOpmdYUrjc6PvtUA40wknw          |                |
 | Click Ciência                            |                                          | https://www.youtube.com/channel/UC9GFu08xsidnYq_qiJlTcug          |                |
 | Colecionadores de Ossos                  | Paleontologia                            | https://www.youtube.com/user/ColecionadoresOssos                  | ScienceVlogsBr |
 | ComCiência Corporal                      | Educação Física                          | https://www.youtube.com/channel/UCM1gu2yWlpvzzIyRSB8PMBA          | ScienceVlogsBr |
